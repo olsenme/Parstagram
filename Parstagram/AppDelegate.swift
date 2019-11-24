@@ -24,6 +24,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
                       configuration.server = "https://rocky-mesa-85387.herokuapp.com/parse"
                   })
               )
+      
         return true
     }
 
